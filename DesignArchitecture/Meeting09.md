@@ -6,6 +6,8 @@ Project Meeting
 
 * What technologies to be used?
 
+We had a thought of using Node Js at backend
+
 * Who will handle what tasks?
 
 * Discuss workflow of the application from users perspective?
