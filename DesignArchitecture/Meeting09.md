@@ -9,11 +9,11 @@ Project Meeting
 We had a thought of using Node Js at backend
 
 * Who will handle what tasks?
-   Pruthvi Nashkanti
-   Swaroop Reddy Gottigundala
-   Krishna Sumanth Koyyalamudi
-   Venkatayashwanth Damera
-   Vishal Reddy Vennavaram - UI Team Interaction
-   SaiKrishna Emmadishetty
+   ###Pruthvi Nashkanti
+   ###Swaroop Reddy Gottigundala
+   ###Krishna Sumanth Koyyalamudi
+   ###Venkatayashwanth Damera
+   ###Vishal Reddy Vennavaram - UI Team Interaction
+   ###SaiKrishna Emmadishetty
    
 * Discuss workflow of the application from users perspective?
