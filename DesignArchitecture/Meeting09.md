@@ -2,7 +2,7 @@
 
 Project Meeting 
 
-[!https://github.com/KHARIKA17/NWMSU_Gaming-App/blob/master/DesignArchitecture/Team%20Meeting-1.png?raw=true]
+![https://github.com/KHARIKA17/NWMSU_Gaming-App/blob/master/DesignArchitecture/Team%20Meeting-1.png?raw=true]
 
 * What technologies to be used?
 
