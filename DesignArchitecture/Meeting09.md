@@ -20,6 +20,6 @@ We had a thought of using Node Js at backend
    
    Vishal Reddy Vennavaram - UI Team Interaction
    
-   SaiKrishna Emmadishetty
+   SaiKrishna Emmadishetty - UI AND TESTING 
    
 * Discuss workflow of the application from users perspective?
