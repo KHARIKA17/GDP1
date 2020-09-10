@@ -14,7 +14,7 @@ We had a thought of using Node Js at backend
    
    Swaroop Reddy Gottigundala
    
-   Krishna Sumanth Koyyalamudi
+   Krishna Sumanth Koyyalamudi - Work with Data teamm
    
    Venkatayashwanth Damera
    
