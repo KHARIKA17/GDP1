@@ -3,7 +3,7 @@
 ## Team Members and Roles
 - UI Developer     - Chandu Polisetty,Deekshith
 - UI Designer      - Rohith, Bhaskar
-- UX Developer     - Durga Prasad, Rohith gorla
+- UX Developer     - Prasad Golla Durga, Rohith gorla
 - Graphic designer - Sumanth, Sumana Reddy
 
 ## Roles and Resposablities:
