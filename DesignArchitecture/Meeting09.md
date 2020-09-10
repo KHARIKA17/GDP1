@@ -9,6 +9,7 @@ Project Meeting
 We had a thought of using Node Js at backend
 
 * Who will handle what tasks?
+
    Pruthvi Nashkanti
    
    Swaroop Reddy Gottigundala
