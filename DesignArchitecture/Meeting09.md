@@ -23,3 +23,7 @@ We had a thought of using Node Js at backend
    SaiKrishna Emmadishetty - UI AND TESTING 
    
 * Discuss workflow of the application from users perspective?
+- Disussed about the duties of the architetural team , and the total game plan like we again reviewed the Client requirements which are in the RFP and discussed hoe to schedule   the work and how to assign the individual roles.
+
+
+
