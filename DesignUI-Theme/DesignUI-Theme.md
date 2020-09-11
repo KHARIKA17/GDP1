@@ -19,28 +19,19 @@
 8. Fixing any website issues or bugs that arise.
 
 ## UI Designer
- 1. UI designer work closely with Ux designers. 
- -develop creative thinking skills and innovative ideas
- - need to work on designing the pages 
- - ensuring the working of the tools and software to be used.
- - able to design user friendly interactive web pages.
- - Styling the scrrens with graphics and animation to make it visual .
- - Good design makes everything memorable and meaningful
+ - Clear idea on what to design.
+ -Develop creative thinking skills and innovative ideas.
+ - Should be aware of the tools and softwares they are going to use.
+ - Able to design user friendly interactive web pages.
+ - Good design makes everything memorable and meaningful. 
  - Adding emotions using breathtaking images, vibrant colors and exiting fonts on the pages.
- -  Co-ordinating with the clients and reaching their expectations 
- - using tools such as Figma, Sketches to create a rich design to look more realistic .
-- Making detailed decisions on the important aspects of the projects 
- - Designing the UI in such away the improve the customer experience.
-- Better the design,better the business.
-- Designing a proper UI based on the platform
+ - Co-ordinating with the clients frequently  and reaching their expectations 
+ - Using tools such as Figma, Sketches to create a rich design to look more realistic .
+-  Making detailed decisions on the important aspects of the projects 
+ - Designing the UI in such away that improve the customer experience.
+-  Better the design,better the business. 
 - providing a feeback, when a particular button is pressed, provide an indication that the button was pressed like loading without having to say it.
-1. Collaborate with product management and engineering to define and implement innovative solutions for the product direction, visuals    and experience.
-2. Execute all visual design stages from concept to final hand-off to engineering.
-3. Conceptualize original ideas that bring simplicity and user friendliness to complex design roadblocks.
-4. Create wireframes, storyboards, user flows, process flows and site maps to effectively communicate interaction and design ideas.
-5. Present and defend designs and key milestone deliverables to peers and executive level stakeholders.
-6. Conduct user research and evaluate user feedback.
-7. Establish and promote design guidelines, best practices and standards.
+
 
 ## UX Developer
 
