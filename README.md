@@ -8,3 +8,7 @@ The teams for this NWMSU Gaming App project are
 [DesignUI/Theme](https://github.com/KHARIKA17/NWMSU_Gaming-App/tree/master/DesignUI-Theme)
 
 [Stories And SprintPlanning](https://github.com/KHARIKA17/NWMSU_Gaming-App/tree/master/StoriesAndSprintPlanning)
+
+## Request For Proposal Electronic Form 
+
+[RFP Hunt Game](https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md)
