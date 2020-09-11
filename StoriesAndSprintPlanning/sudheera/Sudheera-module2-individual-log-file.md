@@ -24,17 +24,25 @@ This day was Holiday
 
 - Attended zoom meeting arranged by the one of the team member. Taken initiation to dicuss about JIRA issues with every one team. Asked to come up with ideas. 
 
+![](https://raw.githubusercontent.com/KHARIKA17/NWMSU_Gaming-App/master/StoriesAndSprintPlanning/sudheera/Team%20Meeting-1.png)
+
 - After discussing, helped the team memebers for creating Common repository for enitre team and creating subfolders for respective team members.
 
 - For more clarity, even provided the links of the repestive team folder in readme by commiting it.
+
+https://github.com/KHARIKA17/NWMSU_Gaming-App/commit/289ec955cd50e654ad852b9dbd9683037c5a62ce
 
 - Accepted the repo invitation.
 
 - For inviting the team members,emailed them to provide the githud ID's
 
+![](https://raw.githubusercontent.com/KHARIKA17/NWMSU_Gaming-App/master/StoriesAndSprintPlanning/sudheera/Screenshot%20(134).png)
+
 - In order to not to miss anyone ID's,emailed them to give reply through *reply all option rather than reply*
 
-- In zoom meeting, few members said they provide the list what they want to do in project according to that asked to create JIRA stories, for that reason I emailed entire team to provide there wished tasks.
+![](https://raw.githubusercontent.com/KHARIKA17/NWMSU_Gaming-App/master/StoriesAndSprintPlanning/sudheera/Screenshot%20(135).png)
+
+- In zoom meeting, few members said they provide the list what they want to do in project according to that asked to create JIRA stories, for that reason we discussed with entire team to provide there wished tasks.
 
 
 ## 4.Half day 3
