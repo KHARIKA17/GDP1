@@ -1,9 +1,5 @@
 ## Topics Disussed
 
-Project Meeting 
-
-![Project Meeting](https://github.com/KHARIKA17/NWMSU_Gaming-App/blob/master/DesignArchitecture/Team%20Meeting-1.png?raw=true)
-
 *  What technologies to be used?
 
 A: We had a brief discussion on technologies where each one of us shared their inputs on what technologies that need to be incorporated to develop the application. 
@@ -27,5 +23,10 @@ We had a thought of using Node Js at backend
    
    SaiKrishna Emmadishetty - UI AND TESTING 
 
+
+
+Zoom Meeting 
+
+![Project Meeting](https://github.com/KHARIKA17/NWMSU_Gaming-App/blob/master/DesignArchitecture/Team%20Meeting-1.png?raw=true)
 
 
