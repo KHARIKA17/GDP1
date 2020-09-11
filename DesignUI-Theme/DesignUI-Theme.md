@@ -6,7 +6,7 @@
 - UX Developer     - Prasad Golla Durga, Rohith Gorla
 - Graphic designer - Sumanth, Sumana Reddy
 
-## Roles and Resposablities:
+## Roles and Responsiblities:
 
 ## UI Developer
 1. Working with clients to develop the overall look and design of a website.
@@ -19,11 +19,14 @@
 8. Fixing any website issues or bugs that arise.
 
 ## UI Designer
- 1. UI designer work closely with Ux designers . 
- creative thinking skills 
- need to work on designing the pages 
- able to have knowledge on the tools 
-
+ 1. UI designer work closely with Ux designers. 
+ -develop creative thinking skills and innovative ideas
+ - need to work on designing the pages 
+ - ensuring the working of the tools and software to be used.
+ - able to design user friendly interactive web pages.
+ - Styling the scrrens with graphics and animation.
+ - using icons 
+co-ordinating with the clients and reaching their expectations 
 1. Collaborate with product management and engineering to define and implement innovative solutions for the product direction, visuals    and experience.
 2. Execute all visual design stages from concept to final hand-off to engineering.
 3. Conceptualize original ideas that bring simplicity and user friendliness to complex design roadblocks.
