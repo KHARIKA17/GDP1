@@ -2,7 +2,7 @@ Hello, I am Sri Sudheera Chitipolu. Team member of the Stoies and Sprint Plannin
 
 ## 1.Attendance (list the class periods you attended)
 
-Monday September 7 (Holiday)
+Monday September 7 (paid leave)
 
 Wednesday September 9 (Zoom)
 
@@ -10,7 +10,7 @@ Friday September 11 (Zoom)
 
 ## 2.Half day 1
 
-This day was Holiday
+This day was paid leave
 
 ## 3.Half day 2
 
