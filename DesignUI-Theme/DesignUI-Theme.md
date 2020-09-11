@@ -1,9 +1,9 @@
 # DesignUI/Theme
 
 ## Team Members and Roles:
-- UI Developer     - Chandu Polisetty,Deekshith
+- UI Developer     - Chandu Polisetty,Deekshith Maram
 - UI Designer      -Bhaskar Reddy Minupuri, Rohith Reddy Avisakula
-- UX Developer     - Prasad Golla Durga, Rohith gorla
+- UX Developer     - Prasad Golla Durga, Rohith Gorla
 - Graphic designer - Sumanth, Sumana Reddy
 
 ## Roles and Resposablities:
@@ -19,6 +19,10 @@
 8. Fixing any website issues or bugs that arise.
 
 ## UI Designer
+ 1. UI designer work closely with Ux designers . 
+ creative thinking skills 
+ need to work on designing the pages 
+ able to have knowledge on the tools 
 
 1. Collaborate with product management and engineering to define and implement innovative solutions for the product direction, visuals    and experience.
 2. Execute all visual design stages from concept to final hand-off to engineering.
