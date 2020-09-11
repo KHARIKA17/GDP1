@@ -84,7 +84,7 @@ http://cs04.nwmissouri.edu/browse/GDPGAM-25
 
 http://cs04.nwmissouri.edu/browse/GDPGAM-26
 
-- After creating tasks, gave choice to team members like they can change the tasks according to thier wish for building ecnocuraging environment. Even emailed regading this to Dr. Case
+- After creating tasks, gave choice to team members like they can change the tasks according to thier wish for building ecnocuraging environment. Even emailed regarding this to Dr. Case
 
 ![](https://raw.githubusercontent.com/KHARIKA17/NWMSU_Gaming-App/master/StoriesAndSprintPlanning/sudheera/Screenshot%20(137).png)
 
@@ -92,5 +92,5 @@ http://cs04.nwmissouri.edu/browse/GDPGAM-26
 
 ![](https://raw.githubusercontent.com/KHARIKA17/NWMSU_Gaming-App/master/StoriesAndSprintPlanning/sudheera/Screenshot%20(138).png)
 
-- Also dicussed with Dr.Case about risks and assumptions of project and project manager.
+- Also discussed with Dr.Case about risks and assumptions of project and project manager.
 
