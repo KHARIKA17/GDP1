@@ -15,6 +15,7 @@ A: We had a brief discussion on technologies, where each one of us shared their 
 
 
 *  Discuss workflow of the application from users perspective?
+
 A: Coming to the workflow of the game, everyone from the team had exchanged their views on layout design, Tabs that should be seen in evry screen
 
 * Disussed about the duties of the architetural team , and the total game plan like we again reviewed the Client requirements which are in the RFP and discussed hoe to schedule   the work and how to assign the individual roles.
