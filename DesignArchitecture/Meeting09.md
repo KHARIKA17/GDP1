@@ -1,6 +1,6 @@
 ## Topics Disussed
 
-*  What technologies to be used?
+*  What technologies to be used to develop the the application?
 
 A: We had a brief discussion on technologies where each one of us shared their inputs on what technologies that need to be incorporated to develop the application. 
 
