@@ -25,7 +25,7 @@ We had a thought of using Node Js at backend
 
 
 
-Zoom Meeting 
+## Zoom Meeting 
 
 ![Project Meeting](https://github.com/KHARIKA17/NWMSU_Gaming-App/blob/master/DesignArchitecture/Team%20Meeting-1.png?raw=true)
 
