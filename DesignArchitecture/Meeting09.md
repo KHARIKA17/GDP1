@@ -2,7 +2,13 @@
 
 *  What technologies to be used to develop the the application?
 
-A: We had a brief discussion on technologies where each one of us shared their inputs on what technologies that need to be incorporated to develop the application. 
+A: We had a brief discussion on technologies, where each one of us shared their inputs on what technologies that need to be incorporated to develop the application. Before selecting any technology stack, we have accesed below few factors which play an important role in delivering any kind of product in-time with great quality:
+
+      a. Expertise On Technology.
+      b. Available time to deliver.
+      c. Security.
+      d. Availability Of resources.
+      e .
 
 We had a thought of using Node Js at backend
 
