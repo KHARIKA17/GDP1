@@ -3,7 +3,7 @@
 ## Team Members and Roles:
 - UI Developer     - Chandu Polisetty,Deekshith Maram
 - UI Designer      -Bhaskar Reddy Minupuri, Rohith Reddy Avisakula
-- UX Developer     - Prasad Golla Durga, Rohith Gorla
+- UX Developer     - Prasad Golla Durga, Sai Rohith Gorla
 - Graphic designer - Sumanth, Sumana Reddy
 
 ## Roles and Responsiblities:
@@ -36,13 +36,11 @@
 
 ## UX Developer
 
-1. Conduct competitive analyses of other websites that operate in the same space.
-2. Prepare customer analyses based on our target demographic and initial transactions.
-3. Participate in creating a content development strategy.
-4. Coordinate with UI design team on issues like navigation, page routing, product page design and more.
-5. Track usability goals and prepare reports for senior management.
-6. Develop mockups for our development and design team.
-7. Conduct usability tests on each independent type of page on the website and create a report showcasing your findings.
+1. meet with clients to find out what they want from their web applications and online projects, especially regarding user interface and experience.
+2. present web design plans and UI layout ideas to clients.
+3. create various web applications using code and visual design skills. They also design and create user interface layouts and web pages aimed at maximizing the user experience.
+4. perform usability tests and analyze the results to gauge the consumer’s experience when using web applications and online programs.
+5. analyze user data to evaluate user interfaces for existing applications and web pages and to identify areas needing improvement.
 
 
 ## Graphic designer
