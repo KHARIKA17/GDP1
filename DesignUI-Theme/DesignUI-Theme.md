@@ -20,17 +20,18 @@
 
 ## UI Designer
  - Clear idea on what to design.
- -Develop creative thinking skills and innovative ideas.
+ - Develop creative thinking skills and innovative ideas.
  - Should be aware of the tools and softwares they are going to use.
- - Able to design user friendly interactive web pages.
+ - Able to design user friendly interactive web pages following the design standereds.
  - Good design makes everything memorable and meaningful. 
  - Adding emotions using breathtaking images, vibrant colors and exiting fonts on the pages.
  - Co-ordinating with the clients frequently  and reaching their expectations 
  - Using tools such as Figma, Sketches to create a rich design to look more realistic .
 -  Making detailed decisions on the important aspects of the projects 
  - Designing the UI in such away that improve the customer experience.
--  Better the design,better the business. 
+-  Better the design,better the business.proper fonts with animation and graphics makes it more effective. 
 - providing a feeback, when a particular button is pressed, provide an indication that the button was pressed like loading without having to say it.
+- Icons are selected in such away that users able to identify its functionalities easily.
 
 
 ## UX Developer
