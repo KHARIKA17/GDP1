@@ -8,7 +8,8 @@ A: We had a brief discussion on technologies, where each one of us shared their 
       b. Available time to deliver.
       c. Security.
       d. Availability Of resources.
-      e .
+     
+     
 
 We had a thought of using Node Js at backend
 
