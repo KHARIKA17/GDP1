@@ -25,10 +25,15 @@
  - ensuring the working of the tools and software to be used.
  - able to design user friendly interactive web pages.
  - Styling the scrrens with graphics and animation to make it visual .
- -Good design makes everything memorable and meaningful
- -Adding emotion by adding breathtaking images, vibrant colors and exiting fonts
- - using icons 
-co-ordinating with the clients and reaching their expectations 
+ - Good design makes everything memorable and meaningful
+ - Adding emotions using breathtaking images, vibrant colors and exiting fonts on the pages.
+ -  Co-ordinating with the clients and reaching their expectations 
+ - using tools such as Figma, Sketches to create a rich design to look more realistic .
+- Making detailed decisions on the important aspects of the projects 
+ - Designing the UI in such away the improve the customer experience.
+- Better the design,better the business.
+- Designing a proper UI based on the platform
+- providing a feeback, when a particular button is pressed, provide an indication that the button was pressed like loading without having to say it.
 1. Collaborate with product management and engineering to define and implement innovative solutions for the product direction, visuals    and experience.
 2. Execute all visual design stages from concept to final hand-off to engineering.
 3. Conceptualize original ideas that bring simplicity and user friendliness to complex design roadblocks.
