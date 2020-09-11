@@ -22,6 +22,8 @@ This day was Holiday
 
 - After creating the account unable to create the project in JIRA, So emailed regarding this to Dr.Case
 
+![](https://raw.githubusercontent.com/KHARIKA17/NWMSU_Gaming-App/master/StoriesAndSprintPlanning/sudheera/Screenshot%20(136).png)
+
 - Attended zoom meeting arranged by the one of the team member. Taken initiation to dicuss about JIRA issues with every one team. Asked to come up with ideas. 
 
 ![](https://raw.githubusercontent.com/KHARIKA17/NWMSU_Gaming-App/master/StoriesAndSprintPlanning/sudheera/Team%20Meeting-1.png)
@@ -43,6 +45,5 @@ https://github.com/KHARIKA17/NWMSU_Gaming-App/commit/289ec955cd50e654ad852b9dbd9
 ![](https://raw.githubusercontent.com/KHARIKA17/NWMSU_Gaming-App/master/StoriesAndSprintPlanning/sudheera/Screenshot%20(135).png)
 
 - In zoom meeting, few members said they provide the list what they want to do in project according to that asked to create JIRA stories, for that reason we discussed with entire team to provide there wished tasks.
-
 
 ## 4.Half day 3
