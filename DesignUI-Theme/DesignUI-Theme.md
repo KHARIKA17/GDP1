@@ -1,8 +1,8 @@
 # DesignUI/Theme
 
-## Team Members and Roles
+## Team Members and Roles:
 - UI Developer     - Chandu Polisetty,Deekshith
-- UI Designer      - Rohith, Bhaskar
+- UI Designer      -Bhaskar Reddy Minupuri, Rohith Reddy Avisakula
 - UX Developer     - Prasad Golla Durga, Rohith gorla
 - Graphic designer - Sumanth, Sumana Reddy
 
