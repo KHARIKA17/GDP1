@@ -24,7 +24,9 @@
  - need to work on designing the pages 
  - ensuring the working of the tools and software to be used.
  - able to design user friendly interactive web pages.
- - Styling the scrrens with graphics and animation.
+ - Styling the scrrens with graphics and animation to make it visual .
+ -Good design makes everything memorable and meaningful
+ -Adding emotion by adding breathtaking images, vibrant colors and exiting fonts
  - using icons 
 co-ordinating with the clients and reaching their expectations 
 1. Collaborate with product management and engineering to define and implement innovative solutions for the product direction, visuals    and experience.
