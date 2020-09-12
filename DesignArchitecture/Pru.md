@@ -15,12 +15,13 @@ Pruthvi Naskanti - Section 02 - Dr. Case
  
 ## 3. Half-Day 2
 * On my second half-day, We had a brief discussion on technologies, where each one of us shared their inputs on what technologies that need to be incorporated to develop 
-  the application. Before selecting any technology stack, we have accesed below few factors which play an important role in delivering any kind of product in-time with great quality:
-
+  the application. Before selecting any technology stack, we have accesed below few factors which play an important role in delivering any kind of product in-time with 
+  great quality:
+  
 	  a. Expertise On Technology.
-  	b. Available time to deliver.
-  	c. Security.
-  	d. Availability Of resources.
+  	  b. Available time to deliver.
+  	  c. Security.
+  	  d. Availability Of resources.
  
 * https://github.com/KHARIKA17/NWMSU_Gaming-App/commit/7e45a1d6bfaea203204538299e488c126314d325#diff-228a2fd0734ea4324d9ffd721bd32436
 
