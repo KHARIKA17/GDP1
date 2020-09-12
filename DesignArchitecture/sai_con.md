@@ -25,7 +25,7 @@ share our ideas to UI team and Data Design Team. and we also looking forward to 
 
 https://github.com/KHARIKA17/NWMSU_Gaming-App/blob/master/DesignArchitecture/meeting_arch.png
 
-2. And we divied our tasks and roles and responsibities on how to interect with design and data team. and we had also interected with UI team on about development of 
+2.And we divied our tasks and roles and responsibities on how to interect with design and data team. and we had also interected with UI team on about development of 
 design on which technologies. 
 
 
