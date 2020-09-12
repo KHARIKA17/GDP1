@@ -47,3 +47,6 @@ A: Coming to the workflow of the game, everyone from the team had exchanged thei
 
 ![Design Architecture Zoom Meeting on 9/11/20](https://github.com/KHARIKA17/NWMSU_Gaming-App/blob/master/DesignArchitecture/Team%20Meeting.png?raw=true)
 
+## 09/11/2020 Meeting- 2
+- Sarted Working on the user story assigned to me which is about deciding which Tool to use for deployment. So i have gone through all the resources and shortlisted thre deployment tools like Heroku,Azure and AWS. And i had a discussion with my team lead regarding this issue, but it still two more working days to get finalize with the best deployment service.
+
