@@ -53,6 +53,8 @@ A: Coming to the workflow of the game, everyone from the team had exchanged thei
 We have discussed the below points
 
 * Best tool to use for bug tracking is JIRA.
+
+We discussed about using relational databases like SQL/MySQL.and for designing UI we thought of using figma or sketch tools. 
    
   Bug and issue tracking software helps software teams find, record and track bugs in their software. It's important that everyone on your team is able to find and record bugs, and even more important, assign them to the right team members at the right time. 
 
