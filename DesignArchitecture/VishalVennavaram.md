@@ -24,10 +24,10 @@
    
    (https://github.com/KHARIKA17/NWMSU_Gaming-App/commit/cab126e475328010bda95fa61240ba13d6e8829e)
    
-   # Half Day3:
+   # Half Day 3:
     
   On this day we made a discussion among our Design and architecture group regarding the workflow the application.and I have started working on the stories assigned to me by the sprint planning team. The user team has assigned me to work on which tool we will use for UI Desgining and also to decide on which database we are going to use.
-  Also we have conducted a zoom meeting with our group members to discuss about the work flow of the application.Also we have discussed with the UI team to discuss about the tools for designing UI like figma,sketch.And we thought of using relational databases like SQL/MySQL.
+  Also we have conducted a zoom meeting with our group members to discuss about the work flow of the application.Also we have discussed with the UI team to discuss about the tools for designing UI like figma,sketch.And we thought of using relational databases like SQL/MySQL.We have choose NodeJS for backend.
   (https://github.com/KHARIKA17/NWMSU_Gaming-App/commit/bab831ec090a148717da7925ea71755e63e634b7)
   ![Zoom meeting session 09/11/2020](https://github.com/KHARIKA17/NWMSU_Gaming-App/blob/master/DesignArchitecture/meeting_arch.png)
   
