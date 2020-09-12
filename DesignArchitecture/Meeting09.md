@@ -51,6 +51,6 @@ We have discussed the below points
 
 * Best tool to use for bug tracking is JIRA.
    
-  Bug and issue tracking software helps software teams find, record and track bugs in their software. It's important that everyone on your team is able to find and record bugs, and even more important, assign them to the right team members at the right time. A great bug and issue tracker gives your team a single view of all items in the backlog, regardless of whether the work item is a bug or a task related to a new feature development. Having a single source of truth of all issue types helps teams prioritize against their big picture goals, while continually delivering value to their customers. 
+  Bug and issue tracking software helps software teams find, record and track bugs in their software. It's important that everyone on your team is able to find and record bugs, and even more important, assign them to the right team members at the right time. 
 
 
