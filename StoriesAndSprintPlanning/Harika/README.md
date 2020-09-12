@@ -21,7 +21,9 @@ https://github.com/KHARIKA17/NWMSU_Gaming-App
 
 https://github.com/KHARIKA17/NWMSU_Gaming-App
 - I have sent invitations to all team memebrs for collaboration.I have created my Northwest Jira account.
+![](https://github.com/KHARIKA17/NWMSU_Gaming-App/blob/master/StoriesAndSprintPlanning/Harika/Invitation%20for%20collaboration.PNG?raw=true)
 - I have attended Zoom meeting conducted by our team member.I have collaborated with the team regarding plan and responsibilities
+![](https://github.com/KHARIKA17/NWMSU_Gaming-App/blob/master/StoriesAndSprintPlanning/Harika/Team%20Meeting-1.png?raw=true)
 
 ## Half day 3:
 - I have discussed with team members regarding sprint planning and updataing the User stories.
@@ -51,4 +53,7 @@ http://cs04.nwmissouri.edu/secure/RapidBoard.jspa?rapidView=4&projectKey=GDPGAM&
 
 8.Design Architecture-Finalize which Tool to use for Designing UI
 http://cs04.nwmissouri.edu/secure/RapidBoard.jspa?rapidView=4&projectKey=GDPGAM&view=planning&selectedIssue=GDPGAM-29&issueLimit=100
+
+9.I have collaborated with the team regarding the task details.
+![](https://github.com/KHARIKA17/NWMSU_Gaming-App/blob/master/StoriesAndSprintPlanning/Harika/Email.PNG?raw=true)
 
