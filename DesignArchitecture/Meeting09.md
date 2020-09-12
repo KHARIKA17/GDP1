@@ -40,6 +40,9 @@ A: Coming to the workflow of the game, everyone from the team had exchanged thei
 
 ![Project Meeting](https://github.com/KHARIKA17/NWMSU_Gaming-App/blob/master/DesignArchitecture/Team%20Meeting-1.png?raw=true)
 
+
+
+
 ## Organized Team meeting in Zoom
 
 ![Design Architecture Zoom Meeting on 9/11/20](https://github.com/KHARIKA17/NWMSU_Gaming-App/blob/master/DesignArchitecture/Team%20Meeting.png?raw=true)
