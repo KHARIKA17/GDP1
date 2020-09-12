@@ -27,7 +27,7 @@ A: Coming to the workflow of the game, everyone from the team had exchanged thei
    
    Krishna Sumanth Koyyalamudi - Work with Data team.
    
-   Venkatayashwanth Damera - 
+   Venkatayashwanth Damera - UI and Testing
    
    Vishal Reddy Vennavaram - UI Team Interaction
    
