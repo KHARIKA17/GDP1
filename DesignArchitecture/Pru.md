@@ -4,7 +4,9 @@ Pruthvi Naskanti - Section 02 - Dr. Case
 
 ## 1. Attendance:
 09/07/2020(paid leave)
+
 09/09/2020(Attended through Zoom)
+
 09/11/2020(Attended through Zoom)
  
 
@@ -25,7 +27,7 @@ Pruthvi Naskanti - Section 02 - Dr. Case
  
 * https://github.com/KHARIKA17/NWMSU_Gaming-App/commit/7e45a1d6bfaea203204538299e488c126314d325#diff-228a2fd0734ea4324d9ffd721bd32436
 
-* Apart for that, We had discussion over Zoom where members of every team have shared their tasks.
+* Apart for that, We had discussion over Zoom where members of every team have shared their tasks, below is the zoom link:
 
 * Zoom Link : https://github.com/KHARIKA17/NWMSU_Gaming-App/blob/master/DesignArchitecture/Screenshot%20(36).png
  
