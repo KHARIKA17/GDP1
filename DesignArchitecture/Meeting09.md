@@ -33,6 +33,7 @@ A: Coming to the workflow of the game, everyone from the team had exchanged thei
    
    SaiKrishna Emmadishetty - UI AND TESTING 
 
+* Best tool to use for bug tracking is JIRA.
 
 
 ## Zoom Meeting 
