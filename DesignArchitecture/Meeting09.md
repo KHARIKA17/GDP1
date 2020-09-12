@@ -33,7 +33,7 @@ A: Coming to the workflow of the game, everyone from the team had exchanged thei
    
    SaiKrishna Emmadishetty - UI AND TESTING 
 
-* Best tool to use for bug tracking is JIRA.
+
 
 
 ## Zoom Meeting 
@@ -47,6 +47,10 @@ A: Coming to the workflow of the game, everyone from the team had exchanged thei
 
 ![Design Architecture Zoom Meeting on 9/11/20](https://github.com/KHARIKA17/NWMSU_Gaming-App/blob/master/DesignArchitecture/Team%20Meeting.png?raw=true)
 
-## 09/11/2020 Meeting- 2
-- Sarted Working on the user story assigned to me which is about deciding which Tool to use for deployment. So i have gone through all the resources and shortlisted thre deployment tools like Heroku,Azure and AWS. And i had a discussion with my team lead regarding this issue, but it still two more working days to get finalize with the best deployment service.
+We have discussed the below points
+
+* Best tool to use for bug tracking is JIRA.
+   
+  Bug and issue tracking software helps software teams find, record and track bugs in their software. It's important that everyone on your team is able to find and record bugs, and even more important, assign them to the right team members at the right time. A great bug and issue tracker gives your team a single view of all items in the backlog, regardless of whether the work item is a bug or a task related to a new feature development. Having a single source of truth of all issue types helps teams prioritize against their big picture goals, while continually delivering value to their customers. 
+
 
