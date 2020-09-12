@@ -20,6 +20,9 @@ A: Coming to the workflow of the game, everyone from the team had exchanged thei
 
 * Disussed about the duties of the architetural team , and the total game plan like we again reviewed the Client requirements which are in the RFP and discussed hoe to schedule   the work and how to assign the individual roles.
 
+* I have shared my ideas related to user interface design on different pages. and we discussed on which technology we need to use inorder to develop the User Interface Design.
+
+
 ## Team Members
    Pruthvi Naskanti - Work with Data team.
    
