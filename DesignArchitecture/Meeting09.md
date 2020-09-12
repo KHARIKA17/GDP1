@@ -20,9 +20,6 @@ A: Coming to the workflow of the game, everyone from the team had exchanged thei
 
 * Disussed about the duties of the architetural team , and the total game plan like we again reviewed the Client requirements which are in the RFP and discussed hoe to schedule   the work and how to assign the individual roles.
 
-* I have shared my ideas related to user interface design on different pages. and we discussed on which technology we need to use inorder to develop the User Interface Design.
-
-
 ## Team Members
    Pruthvi Naskanti - Work with Data team.
    
@@ -53,9 +50,9 @@ A: Coming to the workflow of the game, everyone from the team had exchanged thei
 We have discussed the below points
 
 * Best tool to use for bug tracking is JIRA.
-
-We discussed about using relational databases like SQL/MySQL.and for designing UI we thought of using figma or sketch tools. 
    
   Bug and issue tracking software helps software teams find, record and track bugs in their software. It's important that everyone on your team is able to find and record bugs, and even more important, assign them to the right team members at the right time. 
+* We also had a discussion about which deployment tool we are going to use
+ - Sarted Working on the user story assigned to me which is about deciding which Tool to use for deployment. So i have gone through all the resources and shortlisted thre deployment tools like Heroku,Azure and AWS. And i had a discussion with my team lead regarding this issue, but it still two more working days to get finalize with the best deployment service. I also had a discussion with Data Team and the UI team about which deployment tool will be the best for our game app.
 
 
