@@ -14,3 +14,7 @@ Meetings:
 * 9/15/20220
 
 ![](https://raw.githubusercontent.com/KHARIKA17/NWMSU_Gaming-App/master/StoriesAndSprintPlanning/Screenshot%20(141).png)
+
+Excel Sheet
+
+https://nwmissouri-my.sharepoint.com/:x:/g/personal/s538422_nwmissouri_edu/Efgj-p8tH6ZPoAQvzoQx1FMB-DwKJQUGFTnURUBtkJfIyw?e=1KxRTo
