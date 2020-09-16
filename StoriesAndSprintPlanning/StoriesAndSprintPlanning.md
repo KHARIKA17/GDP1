@@ -6,10 +6,11 @@
 4. Sumana reddy (working on UI also)
 
 Meetings:
-09/09/2020
+
+* 09/09/2020
 
 ![](https://raw.githubusercontent.com/KHARIKA17/NWMSU_Gaming-App/master/StoriesAndSprintPlanning/sudheera/Team%20Meeting-1.png)
 
-9/15/20220
+* 9/15/20220
 
 ![](https://raw.githubusercontent.com/KHARIKA17/NWMSU_Gaming-App/master/StoriesAndSprintPlanning/Screenshot%20(141).png)
