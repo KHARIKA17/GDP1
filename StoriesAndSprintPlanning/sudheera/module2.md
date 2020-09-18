@@ -12,7 +12,7 @@ Friday September 18 (Zoom)
 
 * Responded to Design UI team emails
 
-1[](https://raw.githubusercontent.com/KHARIKA17/NWMSU_Gaming-App/master/StoriesAndSprintPlanning/sudheera/Screenshot%20(142).png)
+![](https://raw.githubusercontent.com/KHARIKA17/NWMSU_Gaming-App/master/StoriesAndSprintPlanning/sudheera/Screenshot%20(142).png)
 
 * Added design UI team repo link to class repo 
 
