@@ -32,7 +32,7 @@ https://nwmissouri-my.sharepoint.com/❌/g/personal/s538422_nwmissouri_edu/Efgj-
 
 # 3.Half day 2
 
-After presentation worked compleltly on stories in JIRA mostly for design UI theme for sprint 1,2,3.
+After presentation worked compleltly on stories in JIRA mostly for design UI theme for sprint 1,2,3, according to RFP functionalitites.
 
 http://cs04.nwmissouri.edu/browse/GDPGAM-72
 
