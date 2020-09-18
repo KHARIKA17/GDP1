@@ -30,7 +30,7 @@ https://nwmissouri-my.sharepoint.com/❌/g/personal/s538422_nwmissouri_edu/Efgj-
 
 # 3.Half day 2
 
-After presentation worked compleltly on stories in JIRA mostly for design UI theme
+After presentation worked compleltly on stories in JIRA mostly for design UI theme for sprint 1,2,3.
 
 http://cs04.nwmissouri.edu/browse/GDPGAM-72
 
@@ -63,7 +63,7 @@ http://cs04.nwmissouri.edu/browse/GDPGAM-84
 
 # 4. Half day 3 
 
-Worked compleltely on tasks in JIRA mostly for Design Architecture team and gave descritptions to tasks.
+Worked compleltely on tasks in JIRA mostly for Design Architecture team and gave descritptions to tasks for the sprints 1,2,3
 
 http://cs04.nwmissouri.edu/browse/GDPGAM-203
 
