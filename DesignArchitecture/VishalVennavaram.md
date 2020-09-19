@@ -1,35 +1,44 @@
 # Vishal Reddy Vennavaram- Section 02- Dr.Denise Case
 # Attendance :
-  09/07/2020: Paid Leave
+
+  09/14/2020 - Monday - In person
   
-  09/09/2020: Via Zoom
+  09/16/2020 - Wednesday - Via Zoom
   
-  09/11/2020: Via Zoom
+  09/18/2020 - Friday  - Via Zoom  
   
   # Half Day 1:
    
-   On the occasion of labor day we were provided a paid leave.
+   On this Day I have attended the class in person we have presented the architecture of our application for our client and we got valuable feedback on our application about the hosting of our application on heroku.Our client has suggested to include Open Authorzation.On this day I have worked on the issues assigned to me by the sprint planning team.I have discussed with the UI Design team regarding which tool they are using for UI.Regarding DataBase to use I have discussed with the members of our team and we thought of using SQL.Also we discussed among our team members regarding the UI tool.
+        
+  (http://cs04.nwmissouri.edu/browse/GDPGAM-16)
+        
+  (http://cs04.nwmissouri.edu/browse/GDPGAM-29)
       
   # Half Day 2:
+  On this day I have worked on adding the description for the game in order to include it into the Design architecture.md file.
   
-   On this Day the user stories and sprint planning team conducted a zoom meeting with all the teams in order to discuss about various aspects of the application.Also they have created a Github repo for the application.
-      
-   Here is the link for the repo:  (https://github.com/KHARIKA17/NWMSU_Gaming-App).
-   
-   Also on this day we held a individual meeting for our design architecture group and divided individual roles among ourselves.We have created a readme file for our team and started working on it.I have made some changes to the readme file.
-   
-   Here are the commits that I have made to the readme file.
-   
-   (https://github.com/KHARIKA17/NWMSU_Gaming-App/commit/d5d03f9e26abb365cbf5b54ddb3b1d8c64d7c69e)
-   
-   (https://github.com/KHARIKA17/NWMSU_Gaming-App/commit/cab126e475328010bda95fa61240ba13d6e8829e)
+  (https://github.com/Krishna-Koyyalamudi/The-Hunt/commit/99d9820e30609aa99344701346e3d6815fd07923)
+  
+ Also I have made some changes to the package.json file in our project folder.
+ 
+ (https://github.com/Krishna-Koyyalamudi/The-Hunt/commit/445d4aba92602ee1dbbd4d7d799f927f40ace3d8)
+          
+ Also I have started working on the tasks assigned to me by the sprint planning on Identifying the gaps in implementation and identifying the gaps in deployment.
+ 
+  (http://cs04.nwmissouri.edu/browse/GDPGAM-222)
+  
+  (http://cs04.nwmissouri.edu/browse/GDPGAM-233)
    
    # Half Day 3:
     
-  On this day we made a discussion among our Design and architecture group regarding the workflow the application.and I have started working on the stories assigned to me by the sprint planning team. The user team has assigned me to work on which tool we will use for UI Desgining and also to decide on which database we are going to use.
-  Also we have conducted a zoom meeting with our group members to discuss about the work flow of the application.Also we have discussed with the UI team to discuss about the tools for designing UI like figma,sketch.And we thought of using relational databases like SQL/MySQL.We have choose NodeJS for backend.
-  (https://github.com/KHARIKA17/NWMSU_Gaming-App/commit/bab831ec090a148717da7925ea71755e63e634b7)
-  ![Zoom meeting session 09/11/2020](https://github.com/KHARIKA17/NWMSU_Gaming-App/blob/master/DesignArchitecture/meeting_arch.png)
+  On this Day I have with my team members to host the page on the heroku.I have made some changes to the pug file and included the welcome page in it.Also I have added the architecture diagram in the readme file.
+  
+   (https://github.com/Krishna-Koyyalamudi/The-Hunt/commit/c18a203efcc6e981a0d47acf8d0a1b4beb44e43e)
+        
+Here is the link for our hosted page on our heroku.
+
+   (https://glacial-thicket-85194.herokuapp.com/)
   
   
     
