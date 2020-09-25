@@ -53,4 +53,7 @@ Follwedup with the team,regarding sprint 0 tasks,for pushing into sprint 1 tasks
 
 Absorbed the status of the tasks and said to my team to work onit by psuhing into other sprints.
 
+Made comments in JIRA for uploaded images
+
+![](https://raw.githubusercontent.com/KHARIKA17/NWMSU_Gaming-App/master/StoriesAndSprintPlanning/sudheera/Screenshot%20(151).png)
 
