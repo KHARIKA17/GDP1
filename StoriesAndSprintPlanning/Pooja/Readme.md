@@ -24,7 +24,7 @@ Time allotted: 4 hours = 1 hour in-class + 3 hours out of the class = worth 300 
 - Github repo link: https://github.com/GUNDUPOOJA/NWMSU_Gaming-App  and also the 
 - NWjira link:  cs04.nwmissouri.edu/secure/RapidBoard.jspa?rapidView=4&projectKey=GDPGAM
 - I scheduled a zoom meeting and send the invitation to all the team members through outlook, there we discussed and share the ideas on what tasks we should do.
-Screenshot (432).png
+[image link](https://nwmissouri.instructure.com/files?preview=4073217)
  
 4. Half-day 3
 - Time allotted: 4 hours = 1 hour in-class + 3 hours out of the class = worth 300 points
@@ -40,5 +40,5 @@ Screenshot (432).png
 - http://cs04.nwmissouri.edu/browse/GDPGAM-37 
 - http://cs04.nwmissouri.edu/browse/GDPGAM-38 
 - After creating the tasks I have sent an email to everyone stating to verify them and also to create new tasks if necessary.
-Screenshot (435).png
+[image](https://nwmissouri.instructure.com/files?preview=4078740)
  
