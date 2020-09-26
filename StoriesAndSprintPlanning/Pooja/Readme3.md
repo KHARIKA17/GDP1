@@ -2,13 +2,13 @@ Gundu Pooja - Section 02 - Dr.Denise Case
 Team Progress Report - Module 3 Individual 1 Contribution
 Project Name: Gaming app
 
-1. Attendance (class periods I attended )
-• 09-21-2020 – zoom session
-• 09-23-2020 – zoom session
-• 09-25-2020 – zoom session
-• For attendance I think I earned 200 points.
+1. Attendance (class periods I attended ) <br>
+- 09-21-2020 – zoom session <br>
+- 09-23-2020 – zoom session <br>
+- 09-25-2020 – zoom session <br>
+- For attendance I think I earned 200 points.<br>
 
-2. Half-day 1
+2. Half-day 1<br>
 •Time allotted: 4 hours out of the class = worth 300 points <br>
 •Last week, as I completely spent my time working in Jira in creating the tasks and user stories and assigning them to other developers, there is only a little work left<br>
 as the other developers spending their time in completing the assigned tasks. <br>
@@ -18,10 +18,10 @@ or data architecture or UI team, so that it will be easy for everyone and also t
 •Here is the common link :<br>
 •http://cs04.nwmissouri.edu/secure/RapidBoard.jspa?rapidView=6&projectKey=GDPGAM&view=planning.nodetail&quickFilter=12&quickFilter=11&issueLimit=100
 
-3. Half day 2
-•Time allotted: 4 hours out of the class = worth 300 points
-•one of our team members writes an email to other developers to give the details of the tasks they want to do, some people responded with the tasks.
-•I created tasks for them in Jira regarding building data queries for the quest, location.
+3. Half day 2 <br>
+•Time allotted: 4 hours out of the class = worth 300 points<br>
+•one of our team members writes an email to other developers to give the details of the tasks they want to do, some people responded with the tasks.<br>
+•I created tasks for them in Jira regarding building data queries for the quest, location. <br>
 •Jira links:
 - http://cs04.nwmissouri.edu/browse/GDPGAM-251 
 - http://cs04.nwmissouri.edu/browse/GDPGAM-252 
@@ -34,7 +34,7 @@ or data architecture or UI team, so that it will be easy for everyone and also t
 - http://cs04.nwmissouri.edu/browse/GDPGAM-276 
 - http://cs04.nwmissouri.edu/browse/GDPGAM-271 
 
-4. Half Day 3
+4. Half Day 3 <br>
 •Time allotted: 4 hours out of the class = worth 300 points <br>
 
 •Created some tasks for the Design data team.<br>
