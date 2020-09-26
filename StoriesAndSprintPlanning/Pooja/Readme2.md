@@ -21,7 +21,7 @@ Team Progress Report - Module 2 Individual 2 Contribution <br>
 
 - Here is the screenshot for that <br>
 
-![screenshot](https://nwmissouri.instructure.com/files?preview=4105443)
+![screenshot](Capture.PNG)
 
 3. Half day 2 <br>
 
