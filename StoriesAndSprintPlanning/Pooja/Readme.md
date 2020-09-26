@@ -22,7 +22,7 @@ Time allotted: 4 hours = 1 hour in-class + 3 hours out of the class = worth 300 
 - I spent most of my time reaching out to my team members and discussed the things how we should proceed further.
 - I have accepted the invitation to the repo created by stories and sprint planning team,this repo will be common to every team.
 - Github repo link: https://github.com/GUNDUPOOJA/NWMSU_Gaming-App  and also the 
-- [NWjira link](cs04.nwmissouri.edu/secure/RapidBoard.jspa?rapidView=4&projectKey=GDPGAM)
+-![NWjira link](cs04.nwmissouri.edu/secure/RapidBoard.jspa?rapidView=4&projectKey=GDPGAM)
 - I scheduled a zoom meeting and send the invitation to all the team members through outlook, there we discussed and share the ideas on what tasks we should do.
 ![Screenshot](2.png)
  
@@ -40,5 +40,5 @@ Time allotted: 4 hours = 1 hour in-class + 3 hours out of the class = worth 300 
 - http://cs04.nwmissouri.edu/browse/GDPGAM-37 
 - http://cs04.nwmissouri.edu/browse/GDPGAM-38 
 - After creating the tasks I have sent an email to everyone stating to verify them and also to create new tasks if necessary.
-![Screenshot(3.png)
+![Screenshot](3.png)
  
